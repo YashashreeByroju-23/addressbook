@@ -1,4 +1,4 @@
-Checking Pipeline
+Testing Pipeline
 Addressbook Tutorial
 ====================
 
